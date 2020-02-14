@@ -28,6 +28,4 @@ $cd igmbf
 
 $bash igmbf.sh
 
-# Powered By Juna
-
 # Thanks For Support me Gays
