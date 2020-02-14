@@ -1,6 +1,4 @@
-# web.tampansky.info
-
-# Hanya Sekadar Iseng Saja
+# Welcome To My Tools On Github
 
 # Auto Visitor Super Fast
 
@@ -16,6 +14,20 @@ $ python2 visit.py
 
 # Enjoy For Using :v
 
-- Thanks To Tampansky
+# Tools Ig Brute Force
 
-- And All Human
+$pkg install curl
+
+$pkg install jq
+
+$pkg install git
+
+$git clone https://github.com/bellattckr/igmbf
+
+$cd igmbf
+
+$bash igmbf.sh
+
+# Powered By Juna
+
+# Thanks For Support me Gays
